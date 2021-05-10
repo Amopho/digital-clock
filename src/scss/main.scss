@@ -14,3 +14,22 @@
 // @import "./layouts/_layouts-dir";
 
 // @import url()
+
+@font-face {
+  font-family: "Digital-7";
+  src: url("../fonts/digital-7/digital-7.ttf");
+}
+
+body {
+  background-color: black;
+  height: 100%;
+}
+
+.clock {
+  position: absolute;
+  top: 50vh;
+  left: 50vw;
+  font-family: "Digital-7";
+  color: aliceblue;
+  font-size: 4rem;
+}

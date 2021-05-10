@@ -1,6 +1,6 @@
 ### 2: JAVASCRIPT CLOCK
 
-![JavaScript digital clock project](./src/images/neon didgital clock.png)
+![JavaScript digital clock project](./src/images/neon-digital-clock.png)
 
 Building your own digital clock with JavaScript is a relatively easy small project to practice variables and simple if loops.
 

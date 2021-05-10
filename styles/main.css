@@ -7,13 +7,25 @@ body {
   height: 100%;
 }
 
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50vw;
+}
+
 .clock {
-  position: absolute;
-  top: 50vh;
-  left: 50vw;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  word-wrap: normal;
+  line-height: 6rem;
   font-family: "Digital-7";
-  color: aliceblue;
   font-size: 4rem;
+  color: #ffd8d8;
+  letter-spacing: 0.05em;
+  text-shadow: 0.1vw 0vw 0.25vw #ffd8d8, 0.2vw 0vw 0.25vw #ffd8d8, 0.4vw 0vw 0.25vw #ffd8d8, 0.1vw 0vw 0vw #f25757, 0.2vw 0vw 0vw #f25757, 0.4vw 0vw 0vw #f25757, 0.1vw 0vw 0.1vw #f25757, 0.2vw 0vw 0.1vw #f25757, 0.4vw 0vw 0.1vw #f25757, 0.1vw 0vw 2vw #f25757, 0.2vw 0vw 2vw #f25757, 0.4vw 0vw 2vw #f25757, 0.1vw 0vw 1vw #e50b0b, 0.2vw 0vw 1vw #e50b0b, 0.4vw 0vw 5vw #e50b0b, 0.1vw 0vw 5vw #e50b0b, 0.2vw 0vw 20vw #e50b0b, 0.4vw 0vw 10vw #e50b0b, 0.1vw 0vw 10vw #e50b0b, 0.2vw 0vw 30vw #e50b0b, 0.4vw 0vw 10vw #e50b0b;
 }
 
 /*# sourceMappingURL=main.css.map */

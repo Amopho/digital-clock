@@ -40,8 +40,6 @@ Create a nice layout with some SASS to make it look pretty.
 - Main use case for mixins: Using bootstrap breakpoint mixins
 - Project: continue color guide in Sass with extra points.
 
-![Preview](./src/images/glimpse-password.png)
-
 ## About DOM
 
 Important issues while working with DOM:
